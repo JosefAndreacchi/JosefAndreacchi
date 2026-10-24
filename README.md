@@ -1,5 +1,18 @@
 # Josef A
 
+I'm an independent website developer based in Toronto, working through [Andreacchi Digital](https://andreacchi.digital/). I help with Shopify edits, responsive layouts, and front-end website fixes.
+
+## Website development and VPS management
+
+My work includes building websites with HTML, CSS, and JavaScript, customizing Shopify storefronts, and deploying and maintaining websites on a self-managed VPS.
+
+- **[Andreacchi Digital](https://andreacchi.digital/)** — my website-services business and an owner-operated website project.
+- **[Jawdai](https://www.jawdai.com/)** — built the complete artist website with HTML, CSS, and JavaScript, deployed it on a self-managed VPS, and continue to manage the site and server.
+
+For website enquiries, visit [Andreacchi Digital](https://andreacchi.digital/contact/).
+
+## Avatar Palace and digital preservation
+
 Avatar Palace owner and digital community preservation contributor.
 
 I am interested in preserving the history of The Palace, Avatar Palace, early online communities, historical software, moderation systems, and digital culture.
